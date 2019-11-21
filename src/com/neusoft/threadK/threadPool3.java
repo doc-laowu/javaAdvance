@@ -32,6 +32,5 @@ public class threadPool3 {
 		
 		threadpool3.shutdown();
 
-		BlockingQueue
 	}
 }
